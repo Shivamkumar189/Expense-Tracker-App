@@ -1,0 +1,1130 @@
+Date,Category,Description,Amount,Payment_Method,Type
+2024-01-01,Transport,Transport expense,476.84,UPI,Expense
+2024-01-01,Salary,Monthly Salary,53226.0,Net Banking,Income
+2024-01-02,Entertainment,Entertainment expense,1234.02,Credit Card,Expense
+2024-01-02,Transport,Transport expense,76.99,Credit Card,Expense
+2024-01-02,Rent,Rent expense,10335.96,Credit Card,Expense
+2024-01-03,Food,Food expense,538.17,Net Banking,Expense
+2024-01-04,Food,Food expense,591.5,Net Banking,Expense
+2024-01-05,Education,Education expense,504.28,UPI,Expense
+2024-01-05,Others,Others expense,945.35,UPI,Expense
+2024-01-05,Shopping,Shopping expense,233.92,UPI,Expense
+2024-01-05,Food,Food expense,443.58,Credit Card,Expense
+2024-01-06,Transport,Transport expense,51.93,Net Banking,Expense
+2024-01-06,Others,Others expense,387.52,Net Banking,Expense
+2024-01-07,Food,Food expense,513.79,Net Banking,Expense
+2024-01-08,Transport,Transport expense,492.12,Net Banking,Expense
+2024-01-08,Rent,Rent expense,14019.58,Cash,Expense
+2024-01-09,Shopping,Shopping expense,2362.4,Cash,Expense
+2024-01-09,Food,Food expense,756.65,Net Banking,Expense
+2024-01-10,Bills,Bills expense,1463.54,UPI,Expense
+2024-01-10,Food,Food expense,223.17,Credit Card,Expense
+2024-01-10,Food,Food expense,562.45,Cash,Expense
+2024-01-11,Shopping,Shopping expense,4199.34,Debit Card,Expense
+2024-01-11,Food,Food expense,343.3,Credit Card,Expense
+2024-01-11,Food,Food expense,616.52,Credit Card,Expense
+2024-01-12,Transport,Transport expense,127.73,UPI,Expense
+2024-01-12,Bills,Bills expense,578.28,UPI,Expense
+2024-01-12,Entertainment,Entertainment expense,954.53,Cash,Expense
+2024-01-13,Transport,Transport expense,465.53,Debit Card,Expense
+2024-01-14,Shopping,Shopping expense,1767.4,Net Banking,Expense
+2024-01-14,Bills,Bills expense,1802.09,Debit Card,Expense
+2024-01-14,Others,Others expense,1274.57,UPI,Expense
+2024-01-15,Shopping,Shopping expense,2790.52,Net Banking,Expense
+2024-01-15,Bills,Bills expense,2913.14,UPI,Expense
+2024-01-15,Shopping,Shopping expense,1524.8,Cash,Expense
+2024-01-15,Food,Food expense,173.95,UPI,Expense
+2024-01-16,Food,Food expense,367.55,Debit Card,Expense
+2024-01-16,Transport,Transport expense,167.94,Net Banking,Expense
+2024-01-16,Food,Food expense,199.13,Debit Card,Expense
+2024-01-16,Shopping,Shopping expense,3992.84,Net Banking,Expense
+2024-01-16,Shopping,Shopping expense,4646.24,Credit Card,Expense
+2024-01-17,Shopping,Shopping expense,4591.81,UPI,Expense
+2024-01-18,Health,Health expense,1907.91,Debit Card,Expense
+2024-01-18,Food,Food expense,328.11,UPI,Expense
+2024-01-19,Shopping,Shopping expense,3396.43,UPI,Expense
+2024-01-19,Bills,Bills expense,1186.8,Cash,Expense
+2024-01-20,Bills,Bills expense,1457.32,Cash,Expense
+2024-01-20,Others,Others expense,1280.93,Debit Card,Expense
+2024-01-20,Shopping,Shopping expense,1332.73,Credit Card,Expense
+2024-01-21,Food,Food expense,80.33,Debit Card,Expense
+2024-01-21,Shopping,Shopping expense,732.28,Credit Card,Expense
+2024-01-21,Transport,Transport expense,124.81,Debit Card,Expense
+2024-01-22,Health,Health expense,2006.41,Net Banking,Expense
+2024-01-23,Bills,Bills expense,2238.79,Net Banking,Expense
+2024-01-23,Food,Food expense,503.31,Credit Card,Expense
+2024-01-24,Bills,Bills expense,1007.65,Cash,Expense
+2024-01-24,Education,Education expense,3793.76,Cash,Expense
+2024-01-25,Shopping,Shopping expense,4426.25,Net Banking,Expense
+2024-01-25,Shopping,Shopping expense,1619.04,Credit Card,Expense
+2024-01-25,Food,Food expense,392.4,Debit Card,Expense
+2024-01-26,Food,Food expense,362.38,Credit Card,Expense
+2024-01-27,Health,Health expense,1432.51,Debit Card,Expense
+2024-01-28,Food,Food expense,317.22,Debit Card,Expense
+2024-01-28,Education,Education expense,1996.73,UPI,Expense
+2024-01-28,Shopping,Shopping expense,202.5,Credit Card,Expense
+2024-01-28,Transport,Transport expense,173.25,Net Banking,Expense
+2024-01-29,Food,Food expense,450.57,Credit Card,Expense
+2024-01-29,Rent,Rent expense,12847.05,Cash,Expense
+2024-01-29,Food,Food expense,233.09,Cash,Expense
+2024-01-30,Food,Food expense,214.07,Credit Card,Expense
+2024-01-30,Bills,Bills expense,1509.59,Debit Card,Expense
+2024-01-30,Food,Food expense,240.44,Credit Card,Expense
+2024-01-30,Food,Food expense,572.23,Credit Card,Expense
+2024-01-31,Shopping,Shopping expense,910.82,Net Banking,Expense
+2024-01-31,Others,Others expense,436.83,Debit Card,Expense
+2024-01-31,Others,Others expense,646.0,Net Banking,Expense
+2024-01-31,Food,Food expense,308.8,Cash,Expense
+2024-01-31,Shopping,Shopping expense,3467.39,Net Banking,Expense
+2024-02-01,Bills,Bills expense,1619.46,Debit Card,Expense
+2024-02-01,Bills,Bills expense,1981.74,Credit Card,Expense
+2024-02-01,Food,Food expense,327.24,Credit Card,Expense
+2024-02-01,Food,Food expense,652.35,Net Banking,Expense
+2024-02-01,Salary,Monthly Salary,50931.0,Net Banking,Income
+2024-02-02,Others,Others expense,628.3,UPI,Expense
+2024-02-02,Entertainment,Entertainment expense,1616.86,UPI,Expense
+2024-02-02,Food,Food expense,431.15,UPI,Expense
+2024-02-02,Shopping,Shopping expense,4320.12,Credit Card,Expense
+2024-02-03,Transport,Transport expense,133.51,Cash,Expense
+2024-02-03,Shopping,Shopping expense,4085.61,Net Banking,Expense
+2024-02-04,Transport,Transport expense,75.2,Cash,Expense
+2024-02-05,Education,Education expense,2686.65,Net Banking,Expense
+2024-02-05,Bills,Bills expense,2594.28,Cash,Expense
+2024-02-05,Shopping,Shopping expense,3729.04,Net Banking,Expense
+2024-02-05,Food,Food expense,456.09,Debit Card,Expense
+2024-02-06,Shopping,Shopping expense,1297.04,UPI,Expense
+2024-02-06,Food,Food expense,786.63,UPI,Expense
+2024-02-06,Bills,Bills expense,1152.07,Net Banking,Expense
+2024-02-06,Others,Others expense,1449.86,Debit Card,Expense
+2024-02-06,Bills,Bills expense,2706.59,Debit Card,Expense
+2024-02-07,Food,Food expense,259.15,Debit Card,Expense
+2024-02-08,Shopping,Shopping expense,4263.97,Credit Card,Expense
+2024-02-08,Health,Health expense,1737.13,Cash,Expense
+2024-02-08,Health,Health expense,3433.53,UPI,Expense
+2024-02-08,Education,Education expense,4819.37,Debit Card,Expense
+2024-02-09,Shopping,Shopping expense,2987.3,Credit Card,Expense
+2024-02-09,Transport,Transport expense,471.86,Net Banking,Expense
+2024-02-09,Others,Others expense,461.69,UPI,Expense
+2024-02-09,Transport,Transport expense,258.24,Debit Card,Expense
+2024-02-09,Transport,Transport expense,497.4,Net Banking,Expense
+2024-02-10,Food,Food expense,63.56,Credit Card,Expense
+2024-02-10,Rent,Rent expense,9251.76,Credit Card,Expense
+2024-02-10,Transport,Transport expense,379.76,Debit Card,Expense
+2024-02-10,Shopping,Shopping expense,1678.69,Credit Card,Expense
+2024-02-10,Bills,Bills expense,1772.04,Net Banking,Expense
+2024-02-11,Shopping,Shopping expense,1402.22,UPI,Expense
+2024-02-11,Bills,Bills expense,2947.23,Net Banking,Expense
+2024-02-11,Rent,Rent expense,14342.69,Debit Card,Expense
+2024-02-11,Transport,Transport expense,194.54,Cash,Expense
+2024-02-11,Shopping,Shopping expense,3410.84,UPI,Expense
+2024-02-12,Health,Health expense,1074.7,Debit Card,Expense
+2024-02-13,Rent,Rent expense,12004.03,Credit Card,Expense
+2024-02-13,Entertainment,Entertainment expense,182.85,UPI,Expense
+2024-02-13,Others,Others expense,731.42,Credit Card,Expense
+2024-02-14,Food,Food expense,712.62,UPI,Expense
+2024-02-14,Shopping,Shopping expense,4774.74,UPI,Expense
+2024-02-14,Transport,Transport expense,289.8,Cash,Expense
+2024-02-14,Bills,Bills expense,2950.83,UPI,Expense
+2024-02-14,Food,Food expense,279.27,Net Banking,Expense
+2024-02-15,Food,Food expense,251.36,Credit Card,Expense
+2024-02-15,Rent,Rent expense,10608.81,Cash,Expense
+2024-02-16,Transport,Transport expense,426.78,Credit Card,Expense
+2024-02-16,Education,Education expense,887.29,Debit Card,Expense
+2024-02-16,Food,Food expense,553.36,Net Banking,Expense
+2024-02-16,Transport,Transport expense,149.46,Net Banking,Expense
+2024-02-16,Food,Food expense,291.91,Cash,Expense
+2024-02-17,Entertainment,Entertainment expense,359.58,Net Banking,Expense
+2024-02-17,Shopping,Shopping expense,2853.54,Credit Card,Expense
+2024-02-18,Food,Food expense,364.84,Cash,Expense
+2024-02-18,Food,Food expense,508.64,Debit Card,Expense
+2024-02-18,Food,Food expense,53.89,Cash,Expense
+2024-02-19,Shopping,Shopping expense,1132.51,Cash,Expense
+2024-02-19,Food,Food expense,347.59,UPI,Expense
+2024-02-19,Food,Food expense,714.96,Credit Card,Expense
+2024-02-19,Food,Food expense,484.15,Credit Card,Expense
+2024-02-19,Transport,Transport expense,345.85,UPI,Expense
+2024-02-20,Transport,Transport expense,102.87,UPI,Expense
+2024-02-20,Others,Others expense,1266.45,Net Banking,Expense
+2024-02-20,Health,Health expense,1150.96,Net Banking,Expense
+2024-02-21,Food,Food expense,277.45,Net Banking,Expense
+2024-02-21,Bills,Bills expense,1316.63,Credit Card,Expense
+2024-02-22,Entertainment,Entertainment expense,615.93,UPI,Expense
+2024-02-23,Others,Others expense,713.03,Credit Card,Expense
+2024-02-24,Entertainment,Entertainment expense,469.32,UPI,Expense
+2024-02-25,Transport,Transport expense,358.77,UPI,Expense
+2024-02-25,Food,Food expense,149.56,Net Banking,Expense
+2024-02-25,Others,Others expense,1086.16,Credit Card,Expense
+2024-02-26,Food,Food expense,349.12,Cash,Expense
+2024-02-26,Transport,Transport expense,379.7,Credit Card,Expense
+2024-02-26,Food,Food expense,188.25,Net Banking,Expense
+2024-02-27,Food,Food expense,371.24,Net Banking,Expense
+2024-02-27,Shopping,Shopping expense,479.33,Net Banking,Expense
+2024-02-28,Education,Education expense,2932.94,Credit Card,Expense
+2024-02-28,Food,Food expense,120.4,Cash,Expense
+2024-02-28,Food,Food expense,750.96,Cash,Expense
+2024-02-28,Shopping,Shopping expense,2680.14,Credit Card,Expense
+2024-02-29,Shopping,Shopping expense,2291.23,UPI,Expense
+2024-03-01,Shopping,Shopping expense,429.04,Debit Card,Expense
+2024-03-01,Bills,Bills expense,896.62,Cash,Expense
+2024-03-01,Food,Food expense,306.41,Cash,Expense
+2024-03-01,Food,Food expense,120.62,Cash,Expense
+2024-03-01,Salary,Monthly Salary,50141.0,Net Banking,Income
+2024-03-02,Health,Health expense,2873.9,UPI,Expense
+2024-03-03,Rent,Rent expense,8684.84,Cash,Expense
+2024-03-04,Rent,Rent expense,11314.3,UPI,Expense
+2024-03-04,Food,Food expense,375.39,Credit Card,Expense
+2024-03-04,Transport,Transport expense,319.45,Credit Card,Expense
+2024-03-05,Shopping,Shopping expense,417.46,Net Banking,Expense
+2024-03-05,Transport,Transport expense,324.15,Cash,Expense
+2024-03-06,Bills,Bills expense,2641.22,Cash,Expense
+2024-03-06,Shopping,Shopping expense,982.09,Credit Card,Expense
+2024-03-07,Food,Food expense,531.81,Cash,Expense
+2024-03-07,Food,Food expense,489.33,Credit Card,Expense
+2024-03-07,Education,Education expense,3665.11,UPI,Expense
+2024-03-08,Transport,Transport expense,332.35,Net Banking,Expense
+2024-03-08,Rent,Rent expense,11819.32,UPI,Expense
+2024-03-08,Education,Education expense,2623.56,UPI,Expense
+2024-03-08,Others,Others expense,1362.76,Net Banking,Expense
+2024-03-09,Food,Food expense,102.02,UPI,Expense
+2024-03-10,Food,Food expense,63.67,Credit Card,Expense
+2024-03-10,Food,Food expense,562.26,Cash,Expense
+2024-03-11,Food,Food expense,289.23,Cash,Expense
+2024-03-11,Entertainment,Entertainment expense,144.22,Credit Card,Expense
+2024-03-11,Entertainment,Entertainment expense,635.52,Cash,Expense
+2024-03-11,Food,Food expense,572.55,UPI,Expense
+2024-03-12,Shopping,Shopping expense,4411.87,Cash,Expense
+2024-03-12,Shopping,Shopping expense,4056.71,UPI,Expense
+2024-03-13,Food,Food expense,183.08,Debit Card,Expense
+2024-03-13,Entertainment,Entertainment expense,1632.99,Cash,Expense
+2024-03-13,Others,Others expense,648.3,Debit Card,Expense
+2024-03-13,Transport,Transport expense,394.91,Cash,Expense
+2024-03-14,Transport,Transport expense,467.46,Cash,Expense
+2024-03-14,Health,Health expense,1830.18,Credit Card,Expense
+2024-03-14,Entertainment,Entertainment expense,1533.63,Credit Card,Expense
+2024-03-14,Food,Food expense,726.91,Debit Card,Expense
+2024-03-14,Bills,Bills expense,2566.14,Credit Card,Expense
+2024-03-15,Transport,Transport expense,450.9,Net Banking,Expense
+2024-03-16,Transport,Transport expense,35.09,UPI,Expense
+2024-03-16,Education,Education expense,1002.08,Debit Card,Expense
+2024-03-16,Transport,Transport expense,476.53,UPI,Expense
+2024-03-16,Others,Others expense,881.48,UPI,Expense
+2024-03-16,Shopping,Shopping expense,2352.54,Net Banking,Expense
+2024-03-17,Food,Food expense,296.5,Net Banking,Expense
+2024-03-17,Shopping,Shopping expense,3811.4,Net Banking,Expense
+2024-03-17,Entertainment,Entertainment expense,1600.27,Credit Card,Expense
+2024-03-17,Food,Food expense,420.82,UPI,Expense
+2024-03-18,Food,Food expense,462.15,UPI,Expense
+2024-03-18,Transport,Transport expense,447.22,Credit Card,Expense
+2024-03-18,Transport,Transport expense,85.02,UPI,Expense
+2024-03-18,Food,Food expense,621.13,Net Banking,Expense
+2024-03-18,Shopping,Shopping expense,685.39,UPI,Expense
+2024-03-19,Food,Food expense,575.73,Cash,Expense
+2024-03-19,Food,Food expense,666.4,UPI,Expense
+2024-03-20,Shopping,Shopping expense,590.47,Credit Card,Expense
+2024-03-20,Food,Food expense,789.98,Net Banking,Expense
+2024-03-20,Transport,Transport expense,204.2,Net Banking,Expense
+2024-03-20,Entertainment,Entertainment expense,1899.77,UPI,Expense
+2024-03-20,Others,Others expense,1142.4,Net Banking,Expense
+2024-03-21,Transport,Transport expense,69.25,Cash,Expense
+2024-03-22,Entertainment,Entertainment expense,1160.97,Net Banking,Expense
+2024-03-22,Transport,Transport expense,455.99,Net Banking,Expense
+2024-03-22,Food,Food expense,419.47,Debit Card,Expense
+2024-03-22,Food,Food expense,401.5,Debit Card,Expense
+2024-03-22,Food,Food expense,139.11,Credit Card,Expense
+2024-03-23,Food,Food expense,536.91,Credit Card,Expense
+2024-03-23,Shopping,Shopping expense,3000.17,Debit Card,Expense
+2024-03-23,Others,Others expense,593.56,Cash,Expense
+2024-03-24,Food,Food expense,701.45,Debit Card,Expense
+2024-03-24,Food,Food expense,772.42,Cash,Expense
+2024-03-25,Food,Food expense,777.41,UPI,Expense
+2024-03-25,Food,Food expense,718.36,UPI,Expense
+2024-03-25,Bills,Bills expense,2982.41,Cash,Expense
+2024-03-26,Food,Food expense,465.39,Net Banking,Expense
+2024-03-26,Others,Others expense,808.49,UPI,Expense
+2024-03-26,Shopping,Shopping expense,3539.59,UPI,Expense
+2024-03-26,Rent,Rent expense,12392.91,Net Banking,Expense
+2024-03-26,Bills,Bills expense,2752.9,Credit Card,Expense
+2024-03-27,Food,Food expense,260.72,Debit Card,Expense
+2024-03-27,Others,Others expense,1340.88,Credit Card,Expense
+2024-03-27,Rent,Rent expense,12340.93,Debit Card,Expense
+2024-03-27,Food,Food expense,191.09,UPI,Expense
+2024-03-27,Rent,Rent expense,10473.47,Credit Card,Expense
+2024-03-28,Bills,Bills expense,694.34,Debit Card,Expense
+2024-03-28,Others,Others expense,1480.01,Credit Card,Expense
+2024-03-28,Shopping,Shopping expense,2773.26,Cash,Expense
+2024-03-29,Transport,Transport expense,412.48,Debit Card,Expense
+2024-03-29,Shopping,Shopping expense,980.56,Net Banking,Expense
+2024-03-29,Education,Education expense,5023.95,Net Banking,Expense
+2024-03-29,Education,Education expense,4491.46,UPI,Expense
+2024-03-29,Shopping,Shopping expense,2207.57,Net Banking,Expense
+2024-03-30,Education,Education expense,5263.35,UPI,Expense
+2024-03-30,Food,Food expense,69.78,Credit Card,Expense
+2024-03-30,Transport,Transport expense,410.96,Debit Card,Expense
+2024-03-31,Others,Others expense,268.1,UPI,Expense
+2024-04-01,Bills,Bills expense,1452.23,Credit Card,Expense
+2024-04-01,Others,Others expense,1271.07,Debit Card,Expense
+2024-04-01,Entertainment,Entertainment expense,990.52,Debit Card,Expense
+2024-04-01,Transport,Transport expense,158.5,Net Banking,Expense
+2024-04-01,Food,Food expense,698.54,Credit Card,Expense
+2024-04-01,Salary,Monthly Salary,50000.0,Net Banking,Income
+2024-04-02,Bills,Bills expense,2374.78,Credit Card,Expense
+2024-04-02,Education,Education expense,3718.32,Debit Card,Expense
+2024-04-02,Shopping,Shopping expense,3833.99,Net Banking,Expense
+2024-04-03,Transport,Transport expense,143.31,Debit Card,Expense
+2024-04-03,Food,Food expense,238.58,UPI,Expense
+2024-04-03,Food,Food expense,205.42,UPI,Expense
+2024-04-03,Health,Health expense,3076.6,Cash,Expense
+2024-04-04,Food,Food expense,251.5,UPI,Expense
+2024-04-04,Food,Food expense,423.62,UPI,Expense
+2024-04-04,Rent,Rent expense,13819.6,Debit Card,Expense
+2024-04-05,Transport,Transport expense,413.7,Debit Card,Expense
+2024-04-05,Others,Others expense,178.19,Credit Card,Expense
+2024-04-06,Entertainment,Entertainment expense,1220.92,Net Banking,Expense
+2024-04-06,Rent,Rent expense,10943.75,Cash,Expense
+2024-04-06,Entertainment,Entertainment expense,1314.79,Net Banking,Expense
+2024-04-06,Entertainment,Entertainment expense,1815.99,UPI,Expense
+2024-04-07,Shopping,Shopping expense,4906.22,UPI,Expense
+2024-04-08,Shopping,Shopping expense,3255.89,Net Banking,Expense
+2024-04-08,Bills,Bills expense,727.51,UPI,Expense
+2024-04-09,Shopping,Shopping expense,2827.74,Net Banking,Expense
+2024-04-09,Rent,Rent expense,14373.3,Net Banking,Expense
+2024-04-09,Food,Food expense,442.7,Credit Card,Expense
+2024-04-10,Shopping,Shopping expense,4023.06,Credit Card,Expense
+2024-04-10,Rent,Rent expense,13894.64,UPI,Expense
+2024-04-10,Entertainment,Entertainment expense,225.85,Debit Card,Expense
+2024-04-10,Food,Food expense,515.6,Debit Card,Expense
+2024-04-11,Transport,Transport expense,128.29,Debit Card,Expense
+2024-04-12,Bills,Bills expense,1353.91,Credit Card,Expense
+2024-04-12,Bills,Bills expense,1650.3,UPI,Expense
+2024-04-13,Bills,Bills expense,1500.75,Net Banking,Expense
+2024-04-13,Shopping,Shopping expense,1064.32,Cash,Expense
+2024-04-13,Shopping,Shopping expense,2175.97,Net Banking,Expense
+2024-04-14,Health,Health expense,2157.9,Credit Card,Expense
+2024-04-14,Others,Others expense,922.81,Credit Card,Expense
+2024-04-15,Food,Food expense,666.34,Cash,Expense
+2024-04-15,Transport,Transport expense,193.38,UPI,Expense
+2024-04-16,Food,Food expense,461.54,Debit Card,Expense
+2024-04-16,Bills,Bills expense,1389.98,Cash,Expense
+2024-04-17,Health,Health expense,689.24,Debit Card,Expense
+2024-04-17,Transport,Transport expense,181.14,Credit Card,Expense
+2024-04-18,Food,Food expense,410.86,Cash,Expense
+2024-04-19,Shopping,Shopping expense,2655.95,Cash,Expense
+2024-04-20,Food,Food expense,332.96,Credit Card,Expense
+2024-04-20,Food,Food expense,701.23,Cash,Expense
+2024-04-21,Food,Food expense,497.96,Debit Card,Expense
+2024-04-21,Others,Others expense,828.06,Credit Card,Expense
+2024-04-21,Education,Education expense,1798.64,Credit Card,Expense
+2024-04-22,Entertainment,Entertainment expense,1109.4,Credit Card,Expense
+2024-04-23,Shopping,Shopping expense,499.24,Debit Card,Expense
+2024-04-23,Food,Food expense,149.84,Debit Card,Expense
+2024-04-23,Shopping,Shopping expense,4253.32,UPI,Expense
+2024-04-23,Shopping,Shopping expense,346.27,Debit Card,Expense
+2024-04-24,Health,Health expense,1545.76,Net Banking,Expense
+2024-04-24,Transport,Transport expense,79.29,Cash,Expense
+2024-04-24,Shopping,Shopping expense,1074.96,Net Banking,Expense
+2024-04-25,Bills,Bills expense,2601.77,UPI,Expense
+2024-04-25,Food,Food expense,451.5,UPI,Expense
+2024-04-25,Food,Food expense,307.2,Debit Card,Expense
+2024-04-26,Rent,Rent expense,10485.73,Net Banking,Expense
+2024-04-26,Shopping,Shopping expense,2501.99,Debit Card,Expense
+2024-04-27,Bills,Bills expense,2342.06,UPI,Expense
+2024-04-28,Bills,Bills expense,1966.34,Cash,Expense
+2024-04-28,Bills,Bills expense,1446.93,Debit Card,Expense
+2024-04-28,Transport,Transport expense,452.83,Debit Card,Expense
+2024-04-28,Shopping,Shopping expense,1372.9,Cash,Expense
+2024-04-28,Rent,Rent expense,10312.44,Net Banking,Expense
+2024-04-29,Education,Education expense,541.44,UPI,Expense
+2024-04-29,Food,Food expense,324.02,Cash,Expense
+2024-04-29,Rent,Rent expense,13955.72,Net Banking,Expense
+2024-04-29,Food,Food expense,654.4,Credit Card,Expense
+2024-04-29,Food,Food expense,681.74,Debit Card,Expense
+2024-04-30,Food,Food expense,63.68,Cash,Expense
+2024-05-01,Shopping,Shopping expense,4986.83,Net Banking,Expense
+2024-05-01,Salary,Monthly Salary,48005.0,Net Banking,Income
+2024-05-02,Transport,Transport expense,485.65,Credit Card,Expense
+2024-05-02,Health,Health expense,3304.87,Debit Card,Expense
+2024-05-02,Food,Food expense,178.17,Cash,Expense
+2024-05-02,Shopping,Shopping expense,4661.0,UPI,Expense
+2024-05-02,Bills,Bills expense,1929.03,Debit Card,Expense
+2024-05-03,Food,Food expense,627.12,Debit Card,Expense
+2024-05-03,Food,Food expense,292.76,UPI,Expense
+2024-05-03,Transport,Transport expense,268.58,Debit Card,Expense
+2024-05-03,Food,Food expense,136.13,Net Banking,Expense
+2024-05-03,Shopping,Shopping expense,1585.43,Debit Card,Expense
+2024-05-04,Bills,Bills expense,885.91,Debit Card,Expense
+2024-05-04,Rent,Rent expense,11728.13,Cash,Expense
+2024-05-04,Food,Food expense,302.45,Debit Card,Expense
+2024-05-04,Food,Food expense,97.53,Net Banking,Expense
+2024-05-05,Others,Others expense,517.41,Credit Card,Expense
+2024-05-05,Entertainment,Entertainment expense,583.82,Cash,Expense
+2024-05-06,Shopping,Shopping expense,3849.09,Credit Card,Expense
+2024-05-06,Bills,Bills expense,1678.94,Net Banking,Expense
+2024-05-06,Transport,Transport expense,193.97,Net Banking,Expense
+2024-05-06,Education,Education expense,5068.41,Debit Card,Expense
+2024-05-07,Others,Others expense,230.23,Net Banking,Expense
+2024-05-07,Shopping,Shopping expense,4704.03,UPI,Expense
+2024-05-07,Food,Food expense,99.87,Debit Card,Expense
+2024-05-07,Shopping,Shopping expense,2957.47,Debit Card,Expense
+2024-05-08,Entertainment,Entertainment expense,365.57,Cash,Expense
+2024-05-08,Entertainment,Entertainment expense,483.09,Net Banking,Expense
+2024-05-09,Food,Food expense,173.2,Debit Card,Expense
+2024-05-09,Entertainment,Entertainment expense,1363.87,Cash,Expense
+2024-05-09,Bills,Bills expense,1397.08,Cash,Expense
+2024-05-09,Health,Health expense,1691.29,Cash,Expense
+2024-05-09,Entertainment,Entertainment expense,934.36,Credit Card,Expense
+2024-05-10,Transport,Transport expense,247.46,Cash,Expense
+2024-05-10,Transport,Transport expense,381.38,Credit Card,Expense
+2024-05-10,Bills,Bills expense,1080.53,UPI,Expense
+2024-05-10,Health,Health expense,1658.79,Debit Card,Expense
+2024-05-10,Bills,Bills expense,2766.18,Net Banking,Expense
+2024-05-11,Shopping,Shopping expense,761.11,Debit Card,Expense
+2024-05-11,Education,Education expense,3952.39,UPI,Expense
+2024-05-11,Transport,Transport expense,95.46,Credit Card,Expense
+2024-05-11,Entertainment,Entertainment expense,1278.14,Debit Card,Expense
+2024-05-11,Bills,Bills expense,2734.73,Credit Card,Expense
+2024-05-12,Entertainment,Entertainment expense,388.18,Credit Card,Expense
+2024-05-12,Transport,Transport expense,146.79,UPI,Expense
+2024-05-13,Shopping,Shopping expense,360.96,Credit Card,Expense
+2024-05-14,Bills,Bills expense,2406.15,Net Banking,Expense
+2024-05-14,Health,Health expense,1499.91,UPI,Expense
+2024-05-14,Entertainment,Entertainment expense,310.2,Cash,Expense
+2024-05-14,Entertainment,Entertainment expense,342.23,Cash,Expense
+2024-05-15,Transport,Transport expense,404.73,Credit Card,Expense
+2024-05-15,Food,Food expense,221.94,Cash,Expense
+2024-05-15,Shopping,Shopping expense,3656.18,Cash,Expense
+2024-05-15,Shopping,Shopping expense,3530.95,Cash,Expense
+2024-05-15,Bills,Bills expense,1129.5,Credit Card,Expense
+2024-05-16,Transport,Transport expense,115.35,UPI,Expense
+2024-05-16,Education,Education expense,3708.65,UPI,Expense
+2024-05-17,Transport,Transport expense,247.14,Credit Card,Expense
+2024-05-17,Education,Education expense,1343.43,Credit Card,Expense
+2024-05-17,Bills,Bills expense,1764.72,Net Banking,Expense
+2024-05-17,Shopping,Shopping expense,286.93,Cash,Expense
+2024-05-18,Health,Health expense,3742.05,Net Banking,Expense
+2024-05-19,Bills,Bills expense,2241.63,UPI,Expense
+2024-05-19,Education,Education expense,4389.81,Cash,Expense
+2024-05-20,Food,Food expense,482.22,Cash,Expense
+2024-05-20,Shopping,Shopping expense,2235.83,Net Banking,Expense
+2024-05-21,Shopping,Shopping expense,4684.96,Net Banking,Expense
+2024-05-21,Education,Education expense,2979.62,Debit Card,Expense
+2024-05-21,Food,Food expense,788.63,Cash,Expense
+2024-05-21,Entertainment,Entertainment expense,336.86,Net Banking,Expense
+2024-05-21,Education,Education expense,5284.43,Net Banking,Expense
+2024-05-22,Bills,Bills expense,1978.19,Net Banking,Expense
+2024-05-22,Transport,Transport expense,55.74,Cash,Expense
+2024-05-22,Transport,Transport expense,407.34,Credit Card,Expense
+2024-05-22,Food,Food expense,300.12,Cash,Expense
+2024-05-23,Transport,Transport expense,282.58,Debit Card,Expense
+2024-05-23,Education,Education expense,2404.9,Credit Card,Expense
+2024-05-23,Transport,Transport expense,376.63,Debit Card,Expense
+2024-05-23,Rent,Rent expense,9572.23,Net Banking,Expense
+2024-05-24,Rent,Rent expense,8986.0,Credit Card,Expense
+2024-05-24,Food,Food expense,423.78,Debit Card,Expense
+2024-05-24,Transport,Transport expense,459.98,Cash,Expense
+2024-05-24,Transport,Transport expense,302.88,UPI,Expense
+2024-05-25,Shopping,Shopping expense,262.85,Credit Card,Expense
+2024-05-25,Shopping,Shopping expense,1054.57,Debit Card,Expense
+2024-05-25,Others,Others expense,265.56,Debit Card,Expense
+2024-05-26,Transport,Transport expense,70.11,Net Banking,Expense
+2024-05-26,Others,Others expense,778.18,UPI,Expense
+2024-05-26,Bills,Bills expense,667.69,Credit Card,Expense
+2024-05-27,Shopping,Shopping expense,1207.55,Credit Card,Expense
+2024-05-27,Health,Health expense,979.53,Cash,Expense
+2024-05-28,Food,Food expense,77.41,Credit Card,Expense
+2024-05-28,Rent,Rent expense,11953.89,UPI,Expense
+2024-05-29,Food,Food expense,631.65,Cash,Expense
+2024-05-29,Rent,Rent expense,11670.73,Debit Card,Expense
+2024-05-29,Transport,Transport expense,218.36,Net Banking,Expense
+2024-05-29,Bills,Bills expense,888.1,Cash,Expense
+2024-05-30,Food,Food expense,696.34,UPI,Expense
+2024-05-30,Education,Education expense,2553.2,Credit Card,Expense
+2024-05-30,Food,Food expense,533.0,Cash,Expense
+2024-05-30,Transport,Transport expense,41.93,Cash,Expense
+2024-05-31,Food,Food expense,586.98,UPI,Expense
+2024-05-31,Shopping,Shopping expense,330.06,Net Banking,Expense
+2024-05-31,Food,Food expense,223.31,Cash,Expense
+2024-05-31,Shopping,Shopping expense,294.61,Cash,Expense
+2024-05-31,Food,Food expense,649.94,UPI,Expense
+2024-06-01,Food,Food expense,539.56,Debit Card,Expense
+2024-06-01,Food,Food expense,124.58,Cash,Expense
+2024-06-01,Food,Food expense,591.7,Cash,Expense
+2024-06-01,Salary,Monthly Salary,51191.0,Net Banking,Income
+2024-06-02,Entertainment,Entertainment expense,1929.03,Net Banking,Expense
+2024-06-02,Education,Education expense,1275.95,Net Banking,Expense
+2024-06-02,Transport,Transport expense,182.28,Credit Card,Expense
+2024-06-02,Food,Food expense,524.93,Cash,Expense
+2024-06-02,Shopping,Shopping expense,4271.01,Credit Card,Expense
+2024-06-03,Food,Food expense,707.33,Cash,Expense
+2024-06-03,Shopping,Shopping expense,3578.94,Cash,Expense
+2024-06-03,Education,Education expense,3936.19,UPI,Expense
+2024-06-04,Transport,Transport expense,417.8,Debit Card,Expense
+2024-06-04,Transport,Transport expense,46.09,Cash,Expense
+2024-06-04,Entertainment,Entertainment expense,755.87,Credit Card,Expense
+2024-06-04,Entertainment,Entertainment expense,789.24,Cash,Expense
+2024-06-05,Health,Health expense,1034.14,Net Banking,Expense
+2024-06-05,Others,Others expense,1180.65,Net Banking,Expense
+2024-06-06,Food,Food expense,474.33,Cash,Expense
+2024-06-07,Others,Others expense,733.04,Net Banking,Expense
+2024-06-07,Food,Food expense,413.58,UPI,Expense
+2024-06-07,Bills,Bills expense,2354.22,UPI,Expense
+2024-06-07,Shopping,Shopping expense,2132.24,Cash,Expense
+2024-06-07,Food,Food expense,533.79,Credit Card,Expense
+2024-06-08,Transport,Transport expense,92.17,Credit Card,Expense
+2024-06-08,Education,Education expense,4301.72,UPI,Expense
+2024-06-08,Shopping,Shopping expense,4148.4,Debit Card,Expense
+2024-06-08,Bills,Bills expense,2537.64,Cash,Expense
+2024-06-09,Rent,Rent expense,8470.23,Credit Card,Expense
+2024-06-09,Transport,Transport expense,263.81,Cash,Expense
+2024-06-09,Shopping,Shopping expense,711.58,Debit Card,Expense
+2024-06-10,Food,Food expense,247.76,Cash,Expense
+2024-06-10,Food,Food expense,599.14,Debit Card,Expense
+2024-06-10,Food,Food expense,524.82,Cash,Expense
+2024-06-11,Rent,Rent expense,12013.06,UPI,Expense
+2024-06-11,Entertainment,Entertainment expense,868.32,Cash,Expense
+2024-06-11,Entertainment,Entertainment expense,901.87,UPI,Expense
+2024-06-12,Transport,Transport expense,480.55,UPI,Expense
+2024-06-12,Food,Food expense,117.75,Debit Card,Expense
+2024-06-12,Entertainment,Entertainment expense,229.67,Credit Card,Expense
+2024-06-12,Entertainment,Entertainment expense,930.67,UPI,Expense
+2024-06-12,Education,Education expense,4468.43,UPI,Expense
+2024-06-13,Shopping,Shopping expense,4756.67,Credit Card,Expense
+2024-06-14,Transport,Transport expense,478.42,UPI,Expense
+2024-06-14,Food,Food expense,412.82,Net Banking,Expense
+2024-06-15,Food,Food expense,454.88,Credit Card,Expense
+2024-06-15,Food,Food expense,681.15,Credit Card,Expense
+2024-06-16,Entertainment,Entertainment expense,1914.95,UPI,Expense
+2024-06-16,Food,Food expense,517.5,Net Banking,Expense
+2024-06-16,Rent,Rent expense,10410.69,Credit Card,Expense
+2024-06-16,Transport,Transport expense,224.01,Cash,Expense
+2024-06-17,Shopping,Shopping expense,3071.77,Debit Card,Expense
+2024-06-17,Rent,Rent expense,8531.53,Credit Card,Expense
+2024-06-17,Food,Food expense,51.75,Net Banking,Expense
+2024-06-18,Others,Others expense,57.62,UPI,Expense
+2024-06-18,Food,Food expense,285.95,Credit Card,Expense
+2024-06-18,Entertainment,Entertainment expense,1927.99,Debit Card,Expense
+2024-06-18,Entertainment,Entertainment expense,1412.06,UPI,Expense
+2024-06-18,Bills,Bills expense,716.76,Net Banking,Expense
+2024-06-19,Others,Others expense,1149.67,Debit Card,Expense
+2024-06-20,Shopping,Shopping expense,3843.37,Cash,Expense
+2024-06-20,Shopping,Shopping expense,3258.71,Cash,Expense
+2024-06-20,Others,Others expense,1359.88,Credit Card,Expense
+2024-06-20,Shopping,Shopping expense,3527.24,UPI,Expense
+2024-06-20,Food,Food expense,552.44,Net Banking,Expense
+2024-06-21,Food,Food expense,491.2,UPI,Expense
+2024-06-21,Others,Others expense,855.92,Debit Card,Expense
+2024-06-22,Rent,Rent expense,10189.98,UPI,Expense
+2024-06-22,Food,Food expense,598.27,Net Banking,Expense
+2024-06-22,Food,Food expense,136.46,UPI,Expense
+2024-06-22,Transport,Transport expense,403.81,Debit Card,Expense
+2024-06-22,Shopping,Shopping expense,463.44,Net Banking,Expense
+2024-06-23,Rent,Rent expense,11657.04,Debit Card,Expense
+2024-06-23,Shopping,Shopping expense,3320.8,UPI,Expense
+2024-06-23,Transport,Transport expense,293.52,Net Banking,Expense
+2024-06-23,Rent,Rent expense,14194.99,Debit Card,Expense
+2024-06-24,Bills,Bills expense,1602.58,Cash,Expense
+2024-06-25,Transport,Transport expense,299.04,UPI,Expense
+2024-06-25,Entertainment,Entertainment expense,1122.96,Cash,Expense
+2024-06-25,Shopping,Shopping expense,3741.71,Debit Card,Expense
+2024-06-25,Bills,Bills expense,1567.04,Cash,Expense
+2024-06-26,Health,Health expense,1786.52,Cash,Expense
+2024-06-26,Rent,Rent expense,14932.39,Credit Card,Expense
+2024-06-27,Food,Food expense,189.1,Debit Card,Expense
+2024-06-27,Transport,Transport expense,468.32,Net Banking,Expense
+2024-06-27,Food,Food expense,57.11,Net Banking,Expense
+2024-06-27,Food,Food expense,116.41,Cash,Expense
+2024-06-27,Food,Food expense,409.84,Cash,Expense
+2024-06-28,Bills,Bills expense,1179.22,Net Banking,Expense
+2024-06-28,Transport,Transport expense,73.1,Debit Card,Expense
+2024-06-28,Transport,Transport expense,275.58,Debit Card,Expense
+2024-06-28,Shopping,Shopping expense,216.06,Credit Card,Expense
+2024-06-29,Rent,Rent expense,10079.02,Debit Card,Expense
+2024-06-30,Health,Health expense,2919.1,Credit Card,Expense
+2024-06-30,Bills,Bills expense,1193.16,Cash,Expense
+2024-06-30,Education,Education expense,748.05,Net Banking,Expense
+2024-06-30,Food,Food expense,343.72,Net Banking,Expense
+2024-07-01,Food,Food expense,767.31,Debit Card,Expense
+2024-07-01,Entertainment,Entertainment expense,592.07,UPI,Expense
+2024-07-01,Bills,Bills expense,2955.83,Cash,Expense
+2024-07-01,Health,Health expense,2483.03,Debit Card,Expense
+2024-07-01,Salary,Monthly Salary,53181.0,Net Banking,Income
+2024-07-02,Shopping,Shopping expense,1001.76,Cash,Expense
+2024-07-02,Others,Others expense,385.92,Credit Card,Expense
+2024-07-03,Education,Education expense,4073.06,Debit Card,Expense
+2024-07-03,Shopping,Shopping expense,2660.9,Debit Card,Expense
+2024-07-03,Food,Food expense,182.4,Debit Card,Expense
+2024-07-04,Food,Food expense,189.83,Debit Card,Expense
+2024-07-04,Entertainment,Entertainment expense,765.24,Net Banking,Expense
+2024-07-04,Food,Food expense,776.83,UPI,Expense
+2024-07-04,Health,Health expense,3725.46,Net Banking,Expense
+2024-07-04,Others,Others expense,302.15,Credit Card,Expense
+2024-07-05,Transport,Transport expense,386.37,Credit Card,Expense
+2024-07-06,Shopping,Shopping expense,938.7,Cash,Expense
+2024-07-06,Entertainment,Entertainment expense,526.44,Net Banking,Expense
+2024-07-06,Food,Food expense,452.73,Credit Card,Expense
+2024-07-06,Bills,Bills expense,1950.22,Cash,Expense
+2024-07-07,Food,Food expense,708.1,Cash,Expense
+2024-07-07,Food,Food expense,147.14,UPI,Expense
+2024-07-07,Health,Health expense,3831.48,UPI,Expense
+2024-07-07,Health,Health expense,3276.16,Debit Card,Expense
+2024-07-08,Shopping,Shopping expense,2844.12,Cash,Expense
+2024-07-08,Food,Food expense,356.34,Credit Card,Expense
+2024-07-09,Transport,Transport expense,152.08,Net Banking,Expense
+2024-07-09,Shopping,Shopping expense,2580.2,Debit Card,Expense
+2024-07-09,Food,Food expense,215.14,Cash,Expense
+2024-07-10,Shopping,Shopping expense,565.43,Net Banking,Expense
+2024-07-10,Health,Health expense,2081.56,Debit Card,Expense
+2024-07-10,Rent,Rent expense,12146.85,Cash,Expense
+2024-07-10,Entertainment,Entertainment expense,760.84,Net Banking,Expense
+2024-07-10,Shopping,Shopping expense,2915.51,Debit Card,Expense
+2024-07-11,Food,Food expense,708.97,Cash,Expense
+2024-07-11,Entertainment,Entertainment expense,1351.06,Debit Card,Expense
+2024-07-11,Health,Health expense,3495.72,Debit Card,Expense
+2024-07-12,Shopping,Shopping expense,4217.66,Credit Card,Expense
+2024-07-12,Shopping,Shopping expense,3464.68,UPI,Expense
+2024-07-12,Shopping,Shopping expense,3813.04,Credit Card,Expense
+2024-07-13,Food,Food expense,710.65,UPI,Expense
+2024-07-13,Health,Health expense,311.14,Net Banking,Expense
+2024-07-13,Entertainment,Entertainment expense,344.85,Credit Card,Expense
+2024-07-14,Transport,Transport expense,379.45,Credit Card,Expense
+2024-07-14,Food,Food expense,663.48,Cash,Expense
+2024-07-15,Entertainment,Entertainment expense,1064.19,Net Banking,Expense
+2024-07-15,Food,Food expense,265.28,Net Banking,Expense
+2024-07-15,Shopping,Shopping expense,4909.69,Net Banking,Expense
+2024-07-16,Shopping,Shopping expense,1447.06,UPI,Expense
+2024-07-16,Shopping,Shopping expense,2791.93,Credit Card,Expense
+2024-07-16,Entertainment,Entertainment expense,303.26,Debit Card,Expense
+2024-07-17,Entertainment,Entertainment expense,1128.41,Debit Card,Expense
+2024-07-17,Others,Others expense,545.71,Credit Card,Expense
+2024-07-18,Shopping,Shopping expense,4673.73,UPI,Expense
+2024-07-18,Food,Food expense,752.92,Net Banking,Expense
+2024-07-18,Shopping,Shopping expense,525.62,Credit Card,Expense
+2024-07-19,Transport,Transport expense,362.84,UPI,Expense
+2024-07-19,Food,Food expense,486.63,UPI,Expense
+2024-07-19,Transport,Transport expense,321.83,Net Banking,Expense
+2024-07-20,Food,Food expense,703.65,Credit Card,Expense
+2024-07-20,Others,Others expense,1454.87,Cash,Expense
+2024-07-20,Shopping,Shopping expense,824.41,UPI,Expense
+2024-07-21,Entertainment,Entertainment expense,146.72,Net Banking,Expense
+2024-07-22,Food,Food expense,292.71,Cash,Expense
+2024-07-22,Rent,Rent expense,13392.85,Cash,Expense
+2024-07-22,Shopping,Shopping expense,2340.33,Cash,Expense
+2024-07-23,Food,Food expense,797.84,Credit Card,Expense
+2024-07-23,Transport,Transport expense,242.15,UPI,Expense
+2024-07-23,Food,Food expense,646.11,Debit Card,Expense
+2024-07-24,Shopping,Shopping expense,1259.69,UPI,Expense
+2024-07-24,Food,Food expense,560.37,UPI,Expense
+2024-07-24,Shopping,Shopping expense,1511.65,Cash,Expense
+2024-07-24,Others,Others expense,269.03,Cash,Expense
+2024-07-25,Transport,Transport expense,473.5,Net Banking,Expense
+2024-07-26,Transport,Transport expense,330.11,Credit Card,Expense
+2024-07-27,Transport,Transport expense,158.88,Net Banking,Expense
+2024-07-27,Others,Others expense,643.53,Debit Card,Expense
+2024-07-28,Health,Health expense,1073.83,Credit Card,Expense
+2024-07-29,Food,Food expense,73.35,Net Banking,Expense
+2024-07-30,Shopping,Shopping expense,1968.93,Net Banking,Expense
+2024-07-30,Health,Health expense,1998.2,Net Banking,Expense
+2024-07-30,Others,Others expense,319.01,Net Banking,Expense
+2024-07-30,Health,Health expense,3151.07,Credit Card,Expense
+2024-07-31,Entertainment,Entertainment expense,1705.09,Cash,Expense
+2024-07-31,Entertainment,Entertainment expense,1289.82,Cash,Expense
+2024-07-31,Food,Food expense,74.39,Cash,Expense
+2024-07-31,Education,Education expense,3891.58,Debit Card,Expense
+2024-07-31,Entertainment,Entertainment expense,1014.89,Net Banking,Expense
+2024-08-01,Food,Food expense,143.89,Debit Card,Expense
+2024-08-01,Shopping,Shopping expense,2265.47,Net Banking,Expense
+2024-08-01,Food,Food expense,418.7,Net Banking,Expense
+2024-08-01,Food,Food expense,486.48,UPI,Expense
+2024-08-01,Salary,Monthly Salary,48116.0,Net Banking,Income
+2024-08-02,Bills,Bills expense,1583.12,UPI,Expense
+2024-08-02,Others,Others expense,266.89,Credit Card,Expense
+2024-08-02,Rent,Rent expense,12763.2,Credit Card,Expense
+2024-08-02,Transport,Transport expense,488.11,Debit Card,Expense
+2024-08-02,Shopping,Shopping expense,3353.52,UPI,Expense
+2024-08-03,Entertainment,Entertainment expense,1910.03,Credit Card,Expense
+2024-08-03,Education,Education expense,4483.57,Credit Card,Expense
+2024-08-04,Shopping,Shopping expense,900.43,UPI,Expense
+2024-08-04,Food,Food expense,478.18,Credit Card,Expense
+2024-08-04,Food,Food expense,411.77,UPI,Expense
+2024-08-04,Food,Food expense,309.51,Cash,Expense
+2024-08-04,Entertainment,Entertainment expense,1888.35,Cash,Expense
+2024-08-05,Food,Food expense,450.68,Cash,Expense
+2024-08-05,Health,Health expense,513.53,Debit Card,Expense
+2024-08-05,Entertainment,Entertainment expense,779.82,UPI,Expense
+2024-08-05,Transport,Transport expense,489.41,Credit Card,Expense
+2024-08-05,Food,Food expense,569.9,Debit Card,Expense
+2024-08-06,Entertainment,Entertainment expense,178.25,Cash,Expense
+2024-08-06,Shopping,Shopping expense,4767.44,UPI,Expense
+2024-08-06,Food,Food expense,722.17,Credit Card,Expense
+2024-08-07,Bills,Bills expense,2041.51,Net Banking,Expense
+2024-08-07,Shopping,Shopping expense,1634.41,Credit Card,Expense
+2024-08-07,Education,Education expense,5710.43,Cash,Expense
+2024-08-08,Shopping,Shopping expense,3960.43,Net Banking,Expense
+2024-08-09,Shopping,Shopping expense,2525.11,Credit Card,Expense
+2024-08-09,Shopping,Shopping expense,2854.41,Debit Card,Expense
+2024-08-10,Bills,Bills expense,2459.58,UPI,Expense
+2024-08-10,Rent,Rent expense,8285.28,UPI,Expense
+2024-08-11,Food,Food expense,378.96,Debit Card,Expense
+2024-08-11,Shopping,Shopping expense,3047.74,Net Banking,Expense
+2024-08-12,Shopping,Shopping expense,2500.54,Debit Card,Expense
+2024-08-12,Shopping,Shopping expense,1779.28,Cash,Expense
+2024-08-12,Rent,Rent expense,13209.95,UPI,Expense
+2024-08-12,Health,Health expense,1847.89,Cash,Expense
+2024-08-12,Food,Food expense,171.25,Debit Card,Expense
+2024-08-13,Food,Food expense,539.95,Debit Card,Expense
+2024-08-13,Transport,Transport expense,284.96,Net Banking,Expense
+2024-08-13,Rent,Rent expense,8570.69,Net Banking,Expense
+2024-08-13,Transport,Transport expense,133.66,Cash,Expense
+2024-08-14,Transport,Transport expense,125.68,UPI,Expense
+2024-08-14,Entertainment,Entertainment expense,430.97,Net Banking,Expense
+2024-08-14,Others,Others expense,653.07,UPI,Expense
+2024-08-14,Entertainment,Entertainment expense,1294.65,Cash,Expense
+2024-08-15,Shopping,Shopping expense,3885.07,Net Banking,Expense
+2024-08-15,Bills,Bills expense,1858.25,Debit Card,Expense
+2024-08-15,Bills,Bills expense,1970.15,UPI,Expense
+2024-08-16,Food,Food expense,346.64,Credit Card,Expense
+2024-08-17,Shopping,Shopping expense,3069.07,Net Banking,Expense
+2024-08-17,Entertainment,Entertainment expense,1344.52,UPI,Expense
+2024-08-17,Others,Others expense,461.59,Debit Card,Expense
+2024-08-17,Transport,Transport expense,210.41,Net Banking,Expense
+2024-08-17,Rent,Rent expense,13851.99,UPI,Expense
+2024-08-18,Food,Food expense,632.0,Cash,Expense
+2024-08-18,Transport,Transport expense,312.87,Net Banking,Expense
+2024-08-19,Shopping,Shopping expense,1989.67,Debit Card,Expense
+2024-08-19,Bills,Bills expense,1532.58,Credit Card,Expense
+2024-08-19,Food,Food expense,377.87,Net Banking,Expense
+2024-08-19,Food,Food expense,353.77,Cash,Expense
+2024-08-20,Bills,Bills expense,1948.54,UPI,Expense
+2024-08-20,Shopping,Shopping expense,657.26,Cash,Expense
+2024-08-20,Shopping,Shopping expense,1698.31,Debit Card,Expense
+2024-08-20,Transport,Transport expense,433.25,Cash,Expense
+2024-08-21,Food,Food expense,491.31,Debit Card,Expense
+2024-08-21,Bills,Bills expense,1491.65,UPI,Expense
+2024-08-21,Food,Food expense,226.01,Credit Card,Expense
+2024-08-22,Health,Health expense,1879.69,Cash,Expense
+2024-08-22,Transport,Transport expense,240.93,Cash,Expense
+2024-08-22,Shopping,Shopping expense,899.63,Debit Card,Expense
+2024-08-23,Transport,Transport expense,306.31,Net Banking,Expense
+2024-08-23,Education,Education expense,1888.9,UPI,Expense
+2024-08-23,Transport,Transport expense,208.3,Cash,Expense
+2024-08-23,Shopping,Shopping expense,1912.31,UPI,Expense
+2024-08-24,Bills,Bills expense,2454.48,Debit Card,Expense
+2024-08-24,Shopping,Shopping expense,2342.57,Debit Card,Expense
+2024-08-24,Health,Health expense,2320.93,UPI,Expense
+2024-08-25,Bills,Bills expense,585.47,Net Banking,Expense
+2024-08-25,Others,Others expense,228.31,UPI,Expense
+2024-08-25,Food,Food expense,88.77,Net Banking,Expense
+2024-08-25,Shopping,Shopping expense,1278.57,Cash,Expense
+2024-08-26,Food,Food expense,116.42,UPI,Expense
+2024-08-26,Food,Food expense,488.5,Credit Card,Expense
+2024-08-26,Shopping,Shopping expense,2107.42,Net Banking,Expense
+2024-08-26,Rent,Rent expense,12801.77,Debit Card,Expense
+2024-08-27,Food,Food expense,292.35,Cash,Expense
+2024-08-27,Others,Others expense,891.16,Cash,Expense
+2024-08-27,Food,Food expense,441.3,UPI,Expense
+2024-08-27,Transport,Transport expense,280.16,Credit Card,Expense
+2024-08-27,Food,Food expense,149.54,Debit Card,Expense
+2024-08-28,Food,Food expense,754.86,Credit Card,Expense
+2024-08-28,Shopping,Shopping expense,979.43,Debit Card,Expense
+2024-08-28,Food,Food expense,598.12,Cash,Expense
+2024-08-28,Food,Food expense,225.92,Cash,Expense
+2024-08-28,Others,Others expense,420.19,UPI,Expense
+2024-08-29,Shopping,Shopping expense,4897.43,Net Banking,Expense
+2024-08-30,Transport,Transport expense,38.23,Credit Card,Expense
+2024-08-30,Food,Food expense,673.16,Debit Card,Expense
+2024-08-31,Health,Health expense,3120.37,UPI,Expense
+2024-08-31,Food,Food expense,646.63,Net Banking,Expense
+2024-08-31,Education,Education expense,3803.35,Cash,Expense
+2024-08-31,Education,Education expense,5047.61,UPI,Expense
+2024-08-31,Shopping,Shopping expense,2970.49,Credit Card,Expense
+2024-09-01,Transport,Transport expense,104.87,Cash,Expense
+2024-09-01,Salary,Monthly Salary,48703.0,Net Banking,Income
+2024-09-02,Food,Food expense,782.88,Credit Card,Expense
+2024-09-03,Transport,Transport expense,439.25,Debit Card,Expense
+2024-09-03,Entertainment,Entertainment expense,1177.33,Net Banking,Expense
+2024-09-03,Shopping,Shopping expense,4416.87,Debit Card,Expense
+2024-09-03,Transport,Transport expense,183.71,Cash,Expense
+2024-09-04,Shopping,Shopping expense,4077.66,Cash,Expense
+2024-09-04,Entertainment,Entertainment expense,1615.85,Credit Card,Expense
+2024-09-04,Transport,Transport expense,414.38,Cash,Expense
+2024-09-04,Food,Food expense,458.37,Net Banking,Expense
+2024-09-05,Food,Food expense,293.44,Cash,Expense
+2024-09-05,Transport,Transport expense,216.2,Credit Card,Expense
+2024-09-06,Shopping,Shopping expense,2065.08,Net Banking,Expense
+2024-09-06,Transport,Transport expense,141.65,Credit Card,Expense
+2024-09-06,Transport,Transport expense,136.82,UPI,Expense
+2024-09-06,Food,Food expense,502.59,Debit Card,Expense
+2024-09-06,Shopping,Shopping expense,3173.55,Cash,Expense
+2024-09-07,Rent,Rent expense,10658.5,Net Banking,Expense
+2024-09-07,Health,Health expense,2172.51,Debit Card,Expense
+2024-09-07,Rent,Rent expense,8179.49,UPI,Expense
+2024-09-08,Transport,Transport expense,208.69,Debit Card,Expense
+2024-09-08,Transport,Transport expense,302.68,Net Banking,Expense
+2024-09-08,Bills,Bills expense,2019.76,Net Banking,Expense
+2024-09-09,Entertainment,Entertainment expense,1644.67,Credit Card,Expense
+2024-09-09,Shopping,Shopping expense,4786.51,Cash,Expense
+2024-09-09,Food,Food expense,196.83,Net Banking,Expense
+2024-09-09,Food,Food expense,535.61,Cash,Expense
+2024-09-10,Health,Health expense,1125.23,Debit Card,Expense
+2024-09-10,Education,Education expense,831.47,Net Banking,Expense
+2024-09-10,Education,Education expense,2433.92,Net Banking,Expense
+2024-09-11,Food,Food expense,414.4,Cash,Expense
+2024-09-11,Food,Food expense,263.65,Debit Card,Expense
+2024-09-11,Transport,Transport expense,407.42,Credit Card,Expense
+2024-09-11,Bills,Bills expense,1278.27,Credit Card,Expense
+2024-09-12,Shopping,Shopping expense,3637.52,Cash,Expense
+2024-09-12,Food,Food expense,360.16,Credit Card,Expense
+2024-09-12,Food,Food expense,185.86,Cash,Expense
+2024-09-12,Shopping,Shopping expense,1070.9,UPI,Expense
+2024-09-12,Bills,Bills expense,2272.62,Debit Card,Expense
+2024-09-13,Food,Food expense,475.48,Cash,Expense
+2024-09-13,Food,Food expense,772.2,Cash,Expense
+2024-09-13,Rent,Rent expense,13641.95,Credit Card,Expense
+2024-09-13,Bills,Bills expense,608.53,Cash,Expense
+2024-09-14,Shopping,Shopping expense,4766.74,Credit Card,Expense
+2024-09-15,Shopping,Shopping expense,4132.11,Net Banking,Expense
+2024-09-15,Health,Health expense,1066.7,Debit Card,Expense
+2024-09-15,Food,Food expense,508.24,UPI,Expense
+2024-09-15,Transport,Transport expense,424.73,Cash,Expense
+2024-09-15,Education,Education expense,2443.82,UPI,Expense
+2024-09-16,Food,Food expense,635.39,Cash,Expense
+2024-09-16,Food,Food expense,666.96,UPI,Expense
+2024-09-16,Transport,Transport expense,343.75,Credit Card,Expense
+2024-09-16,Food,Food expense,517.89,Cash,Expense
+2024-09-16,Rent,Rent expense,12106.26,Credit Card,Expense
+2024-09-17,Food,Food expense,602.66,Cash,Expense
+2024-09-18,Health,Health expense,1023.61,Debit Card,Expense
+2024-09-18,Food,Food expense,67.73,Net Banking,Expense
+2024-09-18,Shopping,Shopping expense,3114.05,Cash,Expense
+2024-09-19,Bills,Bills expense,1079.87,Debit Card,Expense
+2024-09-20,Transport,Transport expense,309.4,Cash,Expense
+2024-09-20,Rent,Rent expense,14914.5,Debit Card,Expense
+2024-09-20,Food,Food expense,571.36,Cash,Expense
+2024-09-20,Transport,Transport expense,231.25,Net Banking,Expense
+2024-09-20,Shopping,Shopping expense,3523.69,UPI,Expense
+2024-09-21,Others,Others expense,236.17,UPI,Expense
+2024-09-21,Food,Food expense,593.25,Credit Card,Expense
+2024-09-21,Bills,Bills expense,1185.4,Debit Card,Expense
+2024-09-21,Food,Food expense,114.24,Credit Card,Expense
+2024-09-21,Health,Health expense,929.1,UPI,Expense
+2024-09-22,Transport,Transport expense,136.53,UPI,Expense
+2024-09-22,Transport,Transport expense,62.63,UPI,Expense
+2024-09-22,Bills,Bills expense,669.03,Cash,Expense
+2024-09-22,Entertainment,Entertainment expense,544.05,Credit Card,Expense
+2024-09-23,Bills,Bills expense,2700.2,UPI,Expense
+2024-09-23,Shopping,Shopping expense,2758.2,UPI,Expense
+2024-09-23,Transport,Transport expense,186.51,Debit Card,Expense
+2024-09-24,Shopping,Shopping expense,4971.87,Debit Card,Expense
+2024-09-25,Shopping,Shopping expense,2877.36,Debit Card,Expense
+2024-09-25,Shopping,Shopping expense,2432.99,Cash,Expense
+2024-09-25,Food,Food expense,471.72,Credit Card,Expense
+2024-09-26,Others,Others expense,304.19,Net Banking,Expense
+2024-09-26,Shopping,Shopping expense,1164.48,Cash,Expense
+2024-09-27,Bills,Bills expense,741.69,Credit Card,Expense
+2024-09-27,Rent,Rent expense,13293.14,Credit Card,Expense
+2024-09-27,Transport,Transport expense,342.51,Credit Card,Expense
+2024-09-27,Entertainment,Entertainment expense,1861.64,UPI,Expense
+2024-09-27,Food,Food expense,349.49,Net Banking,Expense
+2024-09-28,Food,Food expense,794.36,Net Banking,Expense
+2024-09-28,Education,Education expense,3469.76,Credit Card,Expense
+2024-09-28,Entertainment,Entertainment expense,1089.82,Cash,Expense
+2024-09-28,Shopping,Shopping expense,627.8,Net Banking,Expense
+2024-09-29,Entertainment,Entertainment expense,342.66,Credit Card,Expense
+2024-09-29,Entertainment,Entertainment expense,1585.85,Cash,Expense
+2024-09-30,Shopping,Shopping expense,373.57,Cash,Expense
+2024-09-30,Transport,Transport expense,153.66,Debit Card,Expense
+2024-09-30,Transport,Transport expense,71.19,UPI,Expense
+2024-10-01,Education,Education expense,3545.91,Debit Card,Expense
+2024-10-01,Transport,Transport expense,216.58,Net Banking,Expense
+2024-10-01,Transport,Transport expense,312.28,Credit Card,Expense
+2024-10-01,Bills,Bills expense,2798.48,UPI,Expense
+2024-10-01,Salary,Monthly Salary,50190.0,Net Banking,Income
+2024-10-02,Others,Others expense,1284.57,Debit Card,Expense
+2024-10-02,Food,Food expense,747.95,Net Banking,Expense
+2024-10-02,Food,Food expense,663.09,Debit Card,Expense
+2024-10-02,Transport,Transport expense,442.65,Cash,Expense
+2024-10-03,Health,Health expense,3262.52,Cash,Expense
+2024-10-03,Entertainment,Entertainment expense,678.89,Debit Card,Expense
+2024-10-03,Food,Food expense,352.24,Credit Card,Expense
+2024-10-04,Food,Food expense,571.21,Cash,Expense
+2024-10-04,Transport,Transport expense,488.54,UPI,Expense
+2024-10-04,Shopping,Shopping expense,4147.91,Credit Card,Expense
+2024-10-04,Food,Food expense,696.51,Cash,Expense
+2024-10-05,Education,Education expense,3178.84,Debit Card,Expense
+2024-10-05,Shopping,Shopping expense,3871.09,Net Banking,Expense
+2024-10-05,Food,Food expense,426.92,Debit Card,Expense
+2024-10-05,Transport,Transport expense,98.8,Debit Card,Expense
+2024-10-05,Transport,Transport expense,62.04,UPI,Expense
+2024-10-06,Food,Food expense,151.37,Debit Card,Expense
+2024-10-06,Others,Others expense,846.82,UPI,Expense
+2024-10-06,Others,Others expense,677.12,Net Banking,Expense
+2024-10-06,Transport,Transport expense,267.89,UPI,Expense
+2024-10-07,Transport,Transport expense,79.66,Cash,Expense
+2024-10-07,Shopping,Shopping expense,1236.98,Debit Card,Expense
+2024-10-07,Shopping,Shopping expense,3320.97,Credit Card,Expense
+2024-10-07,Food,Food expense,96.01,Net Banking,Expense
+2024-10-07,Entertainment,Entertainment expense,973.62,Debit Card,Expense
+2024-10-08,Food,Food expense,796.15,Credit Card,Expense
+2024-10-08,Food,Food expense,571.28,Net Banking,Expense
+2024-10-09,Others,Others expense,396.81,Credit Card,Expense
+2024-10-09,Food,Food expense,141.04,UPI,Expense
+2024-10-09,Transport,Transport expense,77.49,UPI,Expense
+2024-10-10,Shopping,Shopping expense,499.0,Cash,Expense
+2024-10-10,Bills,Bills expense,2991.74,UPI,Expense
+2024-10-10,Entertainment,Entertainment expense,1268.92,Net Banking,Expense
+2024-10-11,Transport,Transport expense,323.23,Credit Card,Expense
+2024-10-11,Bills,Bills expense,1565.21,UPI,Expense
+2024-10-11,Food,Food expense,714.95,Debit Card,Expense
+2024-10-12,Transport,Transport expense,121.47,Cash,Expense
+2024-10-12,Transport,Transport expense,224.64,Credit Card,Expense
+2024-10-12,Entertainment,Entertainment expense,1493.87,Credit Card,Expense
+2024-10-13,Entertainment,Entertainment expense,120.96,Net Banking,Expense
+2024-10-13,Transport,Transport expense,256.23,Debit Card,Expense
+2024-10-14,Food,Food expense,244.86,Net Banking,Expense
+2024-10-14,Entertainment,Entertainment expense,360.51,Debit Card,Expense
+2024-10-14,Bills,Bills expense,1038.0,Credit Card,Expense
+2024-10-14,Food,Food expense,230.9,Debit Card,Expense
+2024-10-14,Others,Others expense,1212.23,Cash,Expense
+2024-10-15,Others,Others expense,757.39,Debit Card,Expense
+2024-10-15,Food,Food expense,460.97,UPI,Expense
+2024-10-15,Rent,Rent expense,13910.5,Cash,Expense
+2024-10-16,Food,Food expense,416.18,Credit Card,Expense
+2024-10-17,Food,Food expense,293.51,Cash,Expense
+2024-10-17,Shopping,Shopping expense,2484.89,Net Banking,Expense
+2024-10-18,Transport,Transport expense,215.4,UPI,Expense
+2024-10-18,Rent,Rent expense,13495.12,Cash,Expense
+2024-10-18,Health,Health expense,3830.27,UPI,Expense
+2024-10-19,Entertainment,Entertainment expense,699.27,Net Banking,Expense
+2024-10-19,Shopping,Shopping expense,2300.49,UPI,Expense
+2024-10-19,Food,Food expense,680.65,Cash,Expense
+2024-10-20,Food,Food expense,726.32,Debit Card,Expense
+2024-10-20,Rent,Rent expense,12460.41,Net Banking,Expense
+2024-10-20,Shopping,Shopping expense,4496.57,Cash,Expense
+2024-10-21,Shopping,Shopping expense,3146.88,UPI,Expense
+2024-10-21,Food,Food expense,438.81,Credit Card,Expense
+2024-10-21,Food,Food expense,603.08,Cash,Expense
+2024-10-22,Bills,Bills expense,2200.57,Net Banking,Expense
+2024-10-23,Food,Food expense,113.59,Debit Card,Expense
+2024-10-23,Shopping,Shopping expense,546.0,Net Banking,Expense
+2024-10-23,Food,Food expense,59.08,Credit Card,Expense
+2024-10-23,Others,Others expense,1119.39,UPI,Expense
+2024-10-23,Transport,Transport expense,169.37,Cash,Expense
+2024-10-24,Transport,Transport expense,394.09,Cash,Expense
+2024-10-24,Shopping,Shopping expense,1088.94,UPI,Expense
+2024-10-24,Food,Food expense,123.8,Credit Card,Expense
+2024-10-25,Shopping,Shopping expense,3868.99,UPI,Expense
+2024-10-26,Food,Food expense,65.71,Cash,Expense
+2024-10-26,Food,Food expense,775.9,UPI,Expense
+2024-10-26,Food,Food expense,626.92,UPI,Expense
+2024-10-27,Shopping,Shopping expense,2033.31,Net Banking,Expense
+2024-10-27,Food,Food expense,141.04,Credit Card,Expense
+2024-10-28,Shopping,Shopping expense,3918.24,Cash,Expense
+2024-10-28,Shopping,Shopping expense,2745.45,Debit Card,Expense
+2024-10-28,Food,Food expense,776.37,Net Banking,Expense
+2024-10-28,Entertainment,Entertainment expense,656.36,Cash,Expense
+2024-10-29,Others,Others expense,922.73,Credit Card,Expense
+2024-10-29,Bills,Bills expense,2370.18,Cash,Expense
+2024-10-29,Entertainment,Entertainment expense,1347.31,UPI,Expense
+2024-10-29,Food,Food expense,303.7,Cash,Expense
+2024-10-29,Education,Education expense,1735.39,Net Banking,Expense
+2024-10-30,Transport,Transport expense,233.08,Debit Card,Expense
+2024-10-30,Transport,Transport expense,318.08,UPI,Expense
+2024-10-30,Education,Education expense,1823.81,Debit Card,Expense
+2024-10-30,Food,Food expense,198.1,Credit Card,Expense
+2024-10-31,Health,Health expense,2654.08,Cash,Expense
+2024-10-31,Food,Food expense,661.96,Credit Card,Expense
+2024-10-31,Health,Health expense,3416.75,Debit Card,Expense
+2024-10-31,Education,Education expense,1887.33,UPI,Expense
+2024-11-01,Entertainment,Entertainment expense,975.03,Net Banking,Expense
+2024-11-01,Entertainment,Entertainment expense,1484.13,Debit Card,Expense
+2024-11-01,Entertainment,Entertainment expense,1346.71,UPI,Expense
+2024-11-01,Salary,Monthly Salary,54346.0,Net Banking,Income
+2024-11-02,Transport,Transport expense,384.0,Debit Card,Expense
+2024-11-02,Food,Food expense,454.67,Credit Card,Expense
+2024-11-02,Shopping,Shopping expense,718.13,UPI,Expense
+2024-11-02,Shopping,Shopping expense,640.98,Cash,Expense
+2024-11-03,Others,Others expense,758.17,Credit Card,Expense
+2024-11-04,Food,Food expense,306.79,UPI,Expense
+2024-11-04,Transport,Transport expense,386.35,UPI,Expense
+2024-11-04,Shopping,Shopping expense,3137.31,Debit Card,Expense
+2024-11-04,Food,Food expense,163.68,Credit Card,Expense
+2024-11-04,Food,Food expense,482.88,Credit Card,Expense
+2024-11-05,Health,Health expense,1848.44,Credit Card,Expense
+2024-11-05,Food,Food expense,468.53,UPI,Expense
+2024-11-05,Entertainment,Entertainment expense,1509.25,Net Banking,Expense
+2024-11-05,Health,Health expense,1256.03,Credit Card,Expense
+2024-11-05,Food,Food expense,709.86,Net Banking,Expense
+2024-11-06,Shopping,Shopping expense,1692.46,Credit Card,Expense
+2024-11-06,Shopping,Shopping expense,4112.57,Debit Card,Expense
+2024-11-07,Shopping,Shopping expense,3501.84,Net Banking,Expense
+2024-11-07,Transport,Transport expense,283.19,UPI,Expense
+2024-11-08,Bills,Bills expense,2620.12,Credit Card,Expense
+2024-11-08,Entertainment,Entertainment expense,1682.09,Credit Card,Expense
+2024-11-08,Food,Food expense,612.16,Net Banking,Expense
+2024-11-09,Entertainment,Entertainment expense,1388.92,Credit Card,Expense
+2024-11-09,Entertainment,Entertainment expense,1699.74,UPI,Expense
+2024-11-09,Rent,Rent expense,11514.35,UPI,Expense
+2024-11-10,Food,Food expense,339.03,UPI,Expense
+2024-11-10,Shopping,Shopping expense,3945.92,Debit Card,Expense
+2024-11-11,Food,Food expense,153.37,Net Banking,Expense
+2024-11-11,Shopping,Shopping expense,209.02,Debit Card,Expense
+2024-11-12,Food,Food expense,71.8,Credit Card,Expense
+2024-11-13,Food,Food expense,185.99,UPI,Expense
+2024-11-13,Transport,Transport expense,219.09,Credit Card,Expense
+2024-11-13,Health,Health expense,2138.42,Cash,Expense
+2024-11-14,Shopping,Shopping expense,699.86,UPI,Expense
+2024-11-14,Food,Food expense,577.21,UPI,Expense
+2024-11-14,Food,Food expense,414.95,Cash,Expense
+2024-11-14,Bills,Bills expense,2005.36,Cash,Expense
+2024-11-14,Food,Food expense,291.58,Debit Card,Expense
+2024-11-15,Shopping,Shopping expense,915.2,Net Banking,Expense
+2024-11-15,Shopping,Shopping expense,3780.44,UPI,Expense
+2024-11-15,Others,Others expense,354.27,Cash,Expense
+2024-11-15,Entertainment,Entertainment expense,1088.56,Net Banking,Expense
+2024-11-15,Transport,Transport expense,87.52,Credit Card,Expense
+2024-11-16,Shopping,Shopping expense,1332.12,UPI,Expense
+2024-11-16,Transport,Transport expense,59.39,Net Banking,Expense
+2024-11-16,Entertainment,Entertainment expense,1556.52,Debit Card,Expense
+2024-11-16,Shopping,Shopping expense,1637.33,Cash,Expense
+2024-11-16,Food,Food expense,528.16,UPI,Expense
+2024-11-17,Rent,Rent expense,9247.77,Cash,Expense
+2024-11-18,Shopping,Shopping expense,4957.41,Cash,Expense
+2024-11-18,Shopping,Shopping expense,3751.93,UPI,Expense
+2024-11-18,Others,Others expense,344.26,Cash,Expense
+2024-11-18,Bills,Bills expense,2949.12,Cash,Expense
+2024-11-19,Food,Food expense,575.19,UPI,Expense
+2024-11-20,Bills,Bills expense,1966.2,Net Banking,Expense
+2024-11-20,Shopping,Shopping expense,4662.16,Credit Card,Expense
+2024-11-20,Entertainment,Entertainment expense,206.66,UPI,Expense
+2024-11-21,Health,Health expense,1057.06,Debit Card,Expense
+2024-11-21,Transport,Transport expense,247.01,Net Banking,Expense
+2024-11-22,Rent,Rent expense,11046.26,Net Banking,Expense
+2024-11-22,Education,Education expense,4383.1,Debit Card,Expense
+2024-11-22,Shopping,Shopping expense,439.24,Cash,Expense
+2024-11-22,Education,Education expense,5501.65,Net Banking,Expense
+2024-11-22,Entertainment,Entertainment expense,113.36,Net Banking,Expense
+2024-11-23,Food,Food expense,218.92,Cash,Expense
+2024-11-23,Food,Food expense,349.13,Net Banking,Expense
+2024-11-23,Education,Education expense,3096.33,Net Banking,Expense
+2024-11-24,Food,Food expense,262.06,UPI,Expense
+2024-11-24,Food,Food expense,77.22,UPI,Expense
+2024-11-24,Food,Food expense,256.71,Net Banking,Expense
+2024-11-24,Entertainment,Entertainment expense,1952.19,Credit Card,Expense
+2024-11-25,Transport,Transport expense,231.58,Cash,Expense
+2024-11-25,Entertainment,Entertainment expense,609.46,Credit Card,Expense
+2024-11-25,Food,Food expense,689.82,Cash,Expense
+2024-11-25,Food,Food expense,514.77,Debit Card,Expense
+2024-11-26,Bills,Bills expense,1364.8,Cash,Expense
+2024-11-26,Transport,Transport expense,392.77,Cash,Expense
+2024-11-26,Food,Food expense,227.59,UPI,Expense
+2024-11-26,Shopping,Shopping expense,2831.94,Debit Card,Expense
+2024-11-27,Food,Food expense,711.6,Debit Card,Expense
+2024-11-27,Transport,Transport expense,419.1,Debit Card,Expense
+2024-11-27,Entertainment,Entertainment expense,1286.41,Debit Card,Expense
+2024-11-27,Rent,Rent expense,14856.86,Credit Card,Expense
+2024-11-28,Food,Food expense,593.87,UPI,Expense
+2024-11-28,Food,Food expense,303.7,UPI,Expense
+2024-11-28,Transport,Transport expense,475.11,UPI,Expense
+2024-11-28,Others,Others expense,315.37,UPI,Expense
+2024-11-29,Food,Food expense,590.01,UPI,Expense
+2024-11-29,Transport,Transport expense,71.75,Debit Card,Expense
+2024-11-29,Shopping,Shopping expense,2816.51,Credit Card,Expense
+2024-11-29,Others,Others expense,379.74,Net Banking,Expense
+2024-11-30,Transport,Transport expense,285.0,Net Banking,Expense
+2024-12-01,Entertainment,Entertainment expense,1142.79,Net Banking,Expense
+2024-12-01,Shopping,Shopping expense,1285.51,Debit Card,Expense
+2024-12-01,Entertainment,Entertainment expense,914.4,UPI,Expense
+2024-12-01,Food,Food expense,548.14,Cash,Expense
+2024-12-01,Food,Food expense,123.17,Debit Card,Expense
+2024-12-01,Salary,Monthly Salary,51215.0,Net Banking,Income
+2024-12-02,Transport,Transport expense,335.96,UPI,Expense
+2024-12-02,Bills,Bills expense,655.68,Debit Card,Expense
+2024-12-02,Bills,Bills expense,2516.01,Net Banking,Expense
+2024-12-02,Rent,Rent expense,8363.7,Debit Card,Expense
+2024-12-03,Entertainment,Entertainment expense,482.59,UPI,Expense
+2024-12-03,Food,Food expense,173.53,Net Banking,Expense
+2024-12-03,Transport,Transport expense,385.67,Net Banking,Expense
+2024-12-04,Bills,Bills expense,1012.2,Credit Card,Expense
+2024-12-04,Health,Health expense,3542.41,Cash,Expense
+2024-12-05,Health,Health expense,1107.43,UPI,Expense
+2024-12-05,Rent,Rent expense,14894.93,Debit Card,Expense
+2024-12-06,Entertainment,Entertainment expense,151.62,Debit Card,Expense
+2024-12-06,Food,Food expense,397.95,UPI,Expense
+2024-12-06,Education,Education expense,3462.86,Debit Card,Expense
+2024-12-06,Rent,Rent expense,8738.32,Net Banking,Expense
+2024-12-06,Shopping,Shopping expense,4146.1,Credit Card,Expense
+2024-12-07,Transport,Transport expense,394.54,Net Banking,Expense
+2024-12-07,Others,Others expense,345.46,Net Banking,Expense
+2024-12-07,Bills,Bills expense,1217.84,Net Banking,Expense
+2024-12-07,Entertainment,Entertainment expense,1197.43,Net Banking,Expense
+2024-12-08,Shopping,Shopping expense,4029.99,Net Banking,Expense
+2024-12-09,Transport,Transport expense,460.09,UPI,Expense
+2024-12-09,Bills,Bills expense,894.89,Credit Card,Expense
+2024-12-09,Shopping,Shopping expense,4007.65,Debit Card,Expense
+2024-12-10,Transport,Transport expense,432.87,Debit Card,Expense
+2024-12-10,Education,Education expense,2022.97,Debit Card,Expense
+2024-12-10,Others,Others expense,254.03,UPI,Expense
+2024-12-11,Food,Food expense,188.17,Credit Card,Expense
+2024-12-11,Health,Health expense,2686.31,Net Banking,Expense
+2024-12-12,Food,Food expense,380.24,UPI,Expense
+2024-12-12,Shopping,Shopping expense,600.63,Credit Card,Expense
+2024-12-12,Health,Health expense,3253.69,UPI,Expense
+2024-12-12,Bills,Bills expense,2917.82,UPI,Expense
+2024-12-13,Transport,Transport expense,492.53,Credit Card,Expense
+2024-12-13,Shopping,Shopping expense,3246.42,Cash,Expense
+2024-12-13,Food,Food expense,711.45,Cash,Expense
+2024-12-13,Transport,Transport expense,106.25,Cash,Expense
+2024-12-13,Food,Food expense,469.82,Debit Card,Expense
+2024-12-14,Bills,Bills expense,2298.38,Debit Card,Expense
+2024-12-14,Health,Health expense,501.75,Debit Card,Expense
+2024-12-15,Shopping,Shopping expense,1099.58,Net Banking,Expense
+2024-12-15,Health,Health expense,3312.44,Net Banking,Expense
+2024-12-15,Bills,Bills expense,2275.61,UPI,Expense
+2024-12-16,Transport,Transport expense,251.45,Credit Card,Expense
+2024-12-17,Entertainment,Entertainment expense,972.6,Net Banking,Expense
+2024-12-17,Transport,Transport expense,262.28,UPI,Expense
+2024-12-18,Entertainment,Entertainment expense,736.9,Debit Card,Expense
+2024-12-19,Food,Food expense,584.01,Cash,Expense
+2024-12-19,Entertainment,Entertainment expense,291.21,Cash,Expense
+2024-12-19,Food,Food expense,156.48,Net Banking,Expense
+2024-12-19,Transport,Transport expense,241.66,Cash,Expense
+2024-12-20,Shopping,Shopping expense,3325.51,Debit Card,Expense
+2024-12-20,Shopping,Shopping expense,1891.4,Credit Card,Expense
+2024-12-20,Entertainment,Entertainment expense,995.45,Net Banking,Expense
+2024-12-20,Others,Others expense,969.51,UPI,Expense
+2024-12-21,Food,Food expense,557.13,Cash,Expense
+2024-12-21,Transport,Transport expense,352.57,UPI,Expense
+2024-12-21,Food,Food expense,181.16,Debit Card,Expense
+2024-12-22,Health,Health expense,1063.28,Cash,Expense
+2024-12-22,Entertainment,Entertainment expense,630.62,Net Banking,Expense
+2024-12-22,Shopping,Shopping expense,3531.92,Debit Card,Expense
+2024-12-22,Bills,Bills expense,1263.28,UPI,Expense
+2024-12-22,Food,Food expense,74.89,Credit Card,Expense
+2024-12-23,Transport,Transport expense,336.99,Net Banking,Expense
+2024-12-23,Education,Education expense,5291.62,UPI,Expense
+2024-12-23,Entertainment,Entertainment expense,1598.05,UPI,Expense
+2024-12-23,Shopping,Shopping expense,1449.38,Credit Card,Expense
+2024-12-24,Education,Education expense,4189.03,Credit Card,Expense
+2024-12-24,Bills,Bills expense,777.47,Credit Card,Expense
+2024-12-24,Transport,Transport expense,246.37,Debit Card,Expense
+2024-12-25,Health,Health expense,2277.26,Debit Card,Expense
+2024-12-25,Transport,Transport expense,489.1,UPI,Expense
+2024-12-25,Food,Food expense,366.91,UPI,Expense
+2024-12-26,Food,Food expense,604.93,Cash,Expense
+2024-12-26,Education,Education expense,2040.21,Credit Card,Expense
+2024-12-26,Health,Health expense,1310.43,Credit Card,Expense
+2024-12-26,Education,Education expense,4646.79,Cash,Expense
+2024-12-27,Entertainment,Entertainment expense,134.21,Credit Card,Expense
+2024-12-27,Others,Others expense,1103.67,Net Banking,Expense
+2024-12-27,Transport,Transport expense,419.82,Net Banking,Expense
+2024-12-27,Food,Food expense,704.57,Debit Card,Expense
+2024-12-27,Food,Food expense,577.76,UPI,Expense
+2024-12-28,Bills,Bills expense,741.34,UPI,Expense
+2024-12-28,Food,Food expense,59.3,Cash,Expense
+2024-12-28,Rent,Rent expense,10108.86,UPI,Expense
+2024-12-28,Bills,Bills expense,1243.09,Cash,Expense
+2024-12-29,Food,Food expense,607.39,Debit Card,Expense
+2024-12-30,Food,Food expense,727.17,Cash,Expense
+2024-12-30,Health,Health expense,2737.66,Net Banking,Expense
+2024-12-30,Bills,Bills expense,2730.76,Cash,Expense
+2024-12-30,Food,Food expense,109.23,Cash,Expense
+2024-12-30,Food,Food expense,645.93,Debit Card,Expense
